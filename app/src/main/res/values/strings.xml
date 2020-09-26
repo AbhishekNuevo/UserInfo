@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserInfo</string>
+    <string name="subscriber_name">subscriberName</string>
+    <string name="subscriber_email">subscriber_email</string>
+</resources>
